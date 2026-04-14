@@ -1,0 +1,4 @@
+My name is Manish.
+I am studying BCA.
+I am learning Python programming.
+This is a sample text file.

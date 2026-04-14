@@ -1,0 +1,1 @@
+This program copies the contents of one file (source) to another file (destination) using Python.
